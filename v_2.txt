@@ -1,0 +1,19 @@
+# TXT fale:
+# Date:26.04.2019 0:00:00
+
+Operations and their time standard min./pc. :
+Name: 1  |Standard: 1,53
+Name: 2  |Standard: 1,53
+Name: 3  |Standard: 0,777
+Name: 4  |Standard: 0,74
+Name: 5  |Standard: 0,592
+Name: 6  |Standard: 0,143
+Name: 7  |Standard: 0,174
+
+time fund: 7920000  - фонд нормы времени
+reject rate: 10  - процент брака от выпуска
+release rate: 330000  - норма выпуска
+
+Loss of time:
+B_0 = 0,018
+B_1 = 0,025
